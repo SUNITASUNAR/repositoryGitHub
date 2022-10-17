@@ -1,0 +1,34 @@
+body{
+	background-color: orange;
+	color: #080E0E;
+	float: left;
+	font-family: Times New Roman, sans-serif ;
+}
+h1 {
+ 	font-size: 4em;
+ 	letter-spacing: .2em;
+ 	color: red;
+ 	font-weight: bold;
+ 	border: solid;
+}
+ h2 {
+ 	color: blue;
+ 	hover: white;
+ 	}
+ 	a {
+ 	color: #056563;
+ display: inline; padding-left: 2em; padding-right: 2em; }
+ 
+ a { text-decoration:none; }
+ a:link { color:blue; }
+ a:visited { color: #FFF; }
+ a:hover { color: red; }
+ }
+ footer {
+ 	    background-color: blue;
+ 	    font-size: small;
+ 	    text-align: center;
+ 	    padding: 1em;
+ 	    border-top: 2px solid white;
+ 	    color: red;
+ }
